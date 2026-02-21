@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+Camera0.fx: 875.3503325339
+Camera0.fy: 876.1981994149
+Camera0.cx: 655.1307595174
+Camera0.cy: 633.0902041583
+Camera0.k1: -0.1331423566
+Camera0.k2: 0.1225465620
+Camera0.p1: -0.0031051110
+Camera0.p2: -0.0049137501
+Camera0.k3: -0.0349033423
+Camera0.width: 1374
+Camera0.height: 1371
+Camera0.fps: 30.0
+Camera0.RGB: 1

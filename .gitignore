@@ -1,0 +1,7 @@
+# Raw image frame directories (large, ~2.1GB total)
+**/rgb_0/
+**/rgb_1/
+
+# Python
+*.pyc
+__pycache__/

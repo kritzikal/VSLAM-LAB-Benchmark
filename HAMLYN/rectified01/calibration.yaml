@@ -1,0 +1,16 @@
+%YAML:1.0
+
+
+# Camera0 calibration and distortion parameters
+Camera0.model: Pinhole
+
+Camera0.fx: 383.1901395
+Camera0.fy: 383.1901395
+Camera0.cx: 155.9659519195557
+Camera0.cy: 124.3335933685303
+
+Camera0.w: 640
+Camera0.h: 480
+
+# Camera frames per second
+Camera0.fps: 30.0
